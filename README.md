@@ -1,2 +1,1 @@
 # ArtStyleRecognitionProject
-Work in progress
